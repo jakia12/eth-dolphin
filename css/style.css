@@ -3689,3 +3689,9 @@ fieldset:disabled .btn {
   background-image: linear-gradient(#000000b5, #000000be), url(/images/abt.jpg);
   background-attachment: fixed;
 }
+
+.banner-content {
+  margin-top: 15px;
+  max-width: 50%;
+  position: relative;
+}
